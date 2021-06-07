@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vineetrajput141.github.io/csb-303sf/static/css/main.826a2178.chunk.css",
+    "main.js": "https://vineetrajput141.github.io/csb-303sf/static/js/main.650a4ec9.chunk.js",
+    "main.js.map": "https://vineetrajput141.github.io/csb-303sf/static/js/main.650a4ec9.chunk.js.map",
+    "runtime-main.js": "https://vineetrajput141.github.io/csb-303sf/static/js/runtime-main.a14ad841.js",
+    "runtime-main.js.map": "https://vineetrajput141.github.io/csb-303sf/static/js/runtime-main.a14ad841.js.map",
+    "static/js/2.2c46e31b.chunk.js": "https://vineetrajput141.github.io/csb-303sf/static/js/2.2c46e31b.chunk.js",
+    "static/js/2.2c46e31b.chunk.js.map": "https://vineetrajput141.github.io/csb-303sf/static/js/2.2c46e31b.chunk.js.map",
+    "index.html": "https://vineetrajput141.github.io/csb-303sf/index.html",
+    "static/css/main.826a2178.chunk.css.map": "https://vineetrajput141.github.io/csb-303sf/static/css/main.826a2178.chunk.css.map",
+    "static/js/2.2c46e31b.chunk.js.LICENSE.txt": "https://vineetrajput141.github.io/csb-303sf/static/js/2.2c46e31b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a14ad841.js",
+    "static/js/2.2c46e31b.chunk.js",
+    "static/css/main.826a2178.chunk.css",
+    "static/js/main.650a4ec9.chunk.js"
+  ]
+}
